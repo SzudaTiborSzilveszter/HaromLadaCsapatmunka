@@ -1,3 +1,5 @@
+##Csapattagok: Gubek Veronika Eva, Molnár Beatrix Katalin, Szuda Tibor Szilveszter
+
 # HaromLadaCsapatmunka
 
 egyszer játszható játék (MVC, abstrakt):
